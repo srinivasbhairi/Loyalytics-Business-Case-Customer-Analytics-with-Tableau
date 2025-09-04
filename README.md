@@ -4,6 +4,11 @@
 
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/srinivas-bhairi)
 
+# **To Explore the Dashboard - Click here 👇**
+
+[Loyalytics Interactive Dashboard | Tableau Public](https://public.tableau.com/views/LoyalyticsInteractiveDashboard_17565361481430/LoyalyticsDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 ## Loyalytics Business Case: Customer Analytics with Tableau
 
 This project showcases a detailed data analysis of customer transaction data for Loyalytics, an AI and analytics company. Utilizing Tableau, I performed a comprehensive exploration of over 500,000 transactions from Brand A stores in the UAE and Qatar, spanning from 2020 to 2022. The objective was to transform raw data into a set of actionable insights, demonstrating proficiency in data cleaning, visualization, and business intelligence.
