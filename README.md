@@ -64,6 +64,6 @@ Insight: The majority of freebies were distributed in a single bulk campaign, in
 
 ## Operational Analysis:
 
-Find the store city with the highest percentage contribution to overall sales and the store ID within that city with the highest contribution.
+**Find the store city with the highest percentage contribution to overall sales and the store ID within that city with the highest contribution.**
 
 Insight: Business is heavily concentrated in Dubai and Abu Dhabi, with these two cities contributing a majority of the overall sales. Smaller cities like Fujairah and RAK show low contribution, highlighting potential for localized growth campaigns.
